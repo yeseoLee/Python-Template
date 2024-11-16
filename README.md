@@ -4,7 +4,7 @@ Template repository for Python AI Project
 
 cloned from [https://github.com/monologg/python-template](https://github.com/monologg/python-template)
 
-## 🚀 Features
+## Features
 
 ### Code Formatting & Linting
 
